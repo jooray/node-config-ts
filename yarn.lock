@@ -770,10 +770,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.11.1.tgz#9ee55ffce20f72e141863b0036a6e51c6fc09a1f"
   integrity sha512-2azXFP9n4aA2QNLkKm/F9pzKxgYj1SMawZ5Eh9iC21RH3XNcFsivLVU2NhpMgQm7YobSByvIol4c42ZFusXFHQ==
 
-"@types/ramda@^0.26.3":
-  version "0.26.3"
-  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.26.3.tgz#e6c35cb0a75843c9cfe58e0be294ffbc4480f33e"
-  integrity sha512-ZTepXW1dgQySkTUbxb2JC61vJxnLqofq4S43rFWpobRRsDh9HgNQxjEWhjQcjoYAMhkyV8JsE9mhE7Pgo3AYbg==
+"@types/ramda@^0.26.7":
+  version "0.26.7"
+  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.26.7.tgz#d9dab6d503154e45cdc17e2b358702937b64a35c"
+  integrity sha512-s0jOrsiuBkaL3g8TAuReGuPjfAaI3a5wnNXn6FbBRO0pO8/68tC/13OuSe9w3wyTmCG0ziJgzsATsqJJz69Dcg==
 
 "@types/tapable@*":
   version "1.0.4"
